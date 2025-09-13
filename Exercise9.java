@@ -16,7 +16,7 @@ public class Exercise9 {
         //question 4
         //true_false = ( (j <= i) || (j >= i ) ); true_false true because i is greater than j and it is a or so true it doesnt matter the other is false
 
-        //question 5
+        //question 5 //// TRUE
         //true_false = ( (i > j) && (j == 0) ); true_false false because j does not equal 0 and it is a and statement
 
         //question 6
@@ -89,3 +89,4 @@ public class Exercise9 {
 
     }
 }
+
